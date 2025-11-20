@@ -1,19 +1,19 @@
-﻿# ISIS Technical Committee (TC) Charter
+﻿# Astro Software Technical Committee (TC) Charter
 
 ## Section 1. Guiding Principle.
 
-The Integrated Software for Imagers (ISIS) Technical Committee will operate
+The Astrogeology Technical Committee will operate
 transparently, openly, inclusively, collaboratively, and ethically.
 Project proposals, timelines, and status must not merely be open, but also
 easily visible to outsiders.
 
-## Section 2. Evolution of ISIS Software Project Governance.
+## Section 2. Evolution of Astro Software Project Governance.
 
 Most large, complex open source projects have a community of motivated 
 contributors and a set of supporting policies that describe how the
 community strives to operate (e.g. the technical governance model).
-Technical leadership for the ISIS project is the Technical Committee (TC).  
-The ISIS project's contributor community are all of those participants making 
+Technical leadership for Astro software projects is the Technical Committee (TC).  
+The project's contributor community are all of those participants making 
 substantive contributions.
 
 The TC's role is to set policy, carry out those responsibilities detailed in this
@@ -36,8 +36,6 @@ membership beyond these rules. The TC may add additional members by consensus. I
 Changes to TC membership should be posted in the agenda, and may be suggested as any other agenda item.
 
 If an addition or removal is proposed during a meeting, and the full TC is not in attendance to participate, then the addition or removal is added to the agenda for the subsequent meeting. This is to ensure that all members are given the opportunity to participate in all membership decisions. If a TC member is unable to attend a meeting where a planned membership decision is being made, then their consent is assumed.
-
-No more than half of the TC members may be affiliated with the same employer. If removal or resignation of a TC member, or a change of employment by a member, creates a situation where more than half of the membership shares an employer, then the situation must be immediately remedied by the resignation or removal of one or more TC members affiliated with the over-represented employer(s).
 
 The TC may, at its discretion, invite any number of non-voting observers to
 participate in the public portion of TC discussions and meetings.
@@ -72,19 +70,17 @@ source projects, consortiums and groups.
 
 ## Section 5. ISIS Software Project Operations.
 
-The TC will establish and maintain a development process for the ISIS 
-Project. The development process will establish guidelines
+The TC will establish and maintain a development process for Astro software 
+projects. The development process will establish guidelines
 for how the developers and community will operate. It will, for example,
 establish appropriate timelines for TC review (e.g. agenda items must be
 published at least a certain number of hours in advance of a TC
 meeting).
 
-There will be multiple Projects under the ISIS Project organized by
-modules or subsystems. The TC is responsible for organizing the Project
+The TC is responsible for organizing the Project
 structure, including possibly the creation and alignment of sub-Projects.
 Each Project must be within such policies as may be set by the TC, have a 
-well-defined scope and must work within that scope.
-The development process will provide a lifecycle process for Projects to follow as described in the [Project Lifecycle][] document. The development
+well-defined scope and must work within that scope. The development
 process will include a process for the TC to oversee and approve changes
 in the lifecycle of a Project, which will include consideration of the
 following criteria:
@@ -153,7 +149,4 @@ rarely be encumbered by the TC and never by the ASC Management Team.
 is organized through the project creation process and approved by the
 TC.
 
-[Project Lifecycle]: https://github.com/USGS-Astrogeology/ISIS_TC/blob/master/Project-Lifecycle.md
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
-[Condorcet]: http://en.wikipedia.org/wiki/Condorcet_method
-[Single Transferable Vote]: http://en.wikipedia.org/wiki/Single_transferable_vote

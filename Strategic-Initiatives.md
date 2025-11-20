@@ -13,14 +13,15 @@ and have the support needed.
 
 | Initiative        | Champion                                                  | Links                                                            |
 |-------------------|-----------------------------------------------------------|------------------------------------------------------------------|
-| CSM            | [Trent Hare][thareusgs]                                    | https://github.com/USGS-Astrogeology/CSM-CameraModel |
-| SPICE Modularization           | [Jay Laura][jlaura] + [Jesse Mapel][jessemapel]                                | https://github.com/USGS-Astrogeology/SpiceRefactor |
+| CSM               | [Trent Hare][thareusgs]                                    | https://github.com/USGS-Astrogeology/CSM-CameraModel |
+| SPICE Modularization           | [Kelvin Rodriguez][krodriguez]                         | https://github.com/USGS-Astrogeology/ALE and https://github.com/DOI-USGS/SpiceQL |
+
 
 # Need volunteers for
 
 | Initiative        | Champion                        | Links                                                            |
 |-------------------|---------------------------------|------------------------------------------------------------------|
-| Mentoring         | ?                               |                                                                  |
+| -         | -                               |                                                                  |
 
 # Completed
 
@@ -30,6 +31,5 @@ and have the support needed.
 
 
 
-[jlaura]: https://github.com/jlaura
+[krodriguez]: https://github.com/krodriguez
 [thareusgs]: https://github.com/thareusgs
-[jessemapel]: https://github.com/jessemapel
