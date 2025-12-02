@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Astro Software TC",
+      "organization": "U.S. Geological Survey",
+      "description": "Public governence documents for the USGS Astrogeology Science Center's Software portfolio",
+      "version": "main",
+      "status": "Development",
+  
+      "permissions": {
+        "usageType": "openSource",
+        "licenses": [
+          {
+            "name": "Public Domain, CC0-1.0",
+            "URL": "https://code.usgs.gov/astrogeology/astro-software-tc/-/blob/main/LICENSE.md"
+          }
+        ]
+      },
+  
+      "homepageURL": "https://code.usgs.gov/astrogeology/astro-software-tc/-/blob/main/README.md",
+      "downloadURL": "https://code.usgs.gov/astrogeology/astro-software-tc/-/archive/main/astro-software-tc-main.zip?ref_type=heads",
+      "disclaimerURL": "https://code.usgs.gov/astrogeology/astro-software-tc/-/blob/main/DISCLAIMER.md",
+      "repositoryURL": "https://code.usgs.gov/astrogeology/astro-software-tc.git",
+      "vcs": "git",
+  
+      "laborHours": 480,
+  
+      "tags": [
+        "Planetary",
+        "Remote Sensing",
+        "Data Processing",
+        "Ephemerides",
+        "Community Sensor Model",
+        "Documentation",
+        "Long Term Plan"
+      ],
+  
+      "languages": [
+        "HTML",
+        "MD"
+      ],
+  
+      "contact": {
+        "name": "Kelvin Rodriguez",
+        "email": "krodriguez@usgs.gov"
+      },
+  
+      "date": {
+        "metadataLastUpdated": "2023-04-19"
+      }
+    }
+]
